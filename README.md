@@ -23,8 +23,8 @@ http://localhost:8000/api/usuarios/1
 
 
 #Instalacción de laravel.
-Paso 1: clonar el repositorio.
-Paso 2: ejecutar el comando "composer update"
-Paso 3: Ejecutar el comando "php artisan key:generate"
-Paso 4: Clonar el archivo .env_example y cambiar el nombre por .env
-    En este archivo se encuetra dos variables nuevas una que es la ruta del servicio y la otra el token.
+<p>Paso 1: clonar el repositorio.</p>
+<p>Paso 2: ejecutar el comando "composer update"</p>
+<p>Paso 3: Ejecutar el comando "php artisan key:generate"</p>
+<p>Paso 4: Clonar el archivo .env_example y cambiar el nombre por .env
+    En este archivo se encuetra dos variables nuevas una que es la ruta del servicio y la otra el token.</p>
