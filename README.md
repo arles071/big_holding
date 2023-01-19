@@ -7,6 +7,8 @@ Una vez consumido el servicio se implemento dos vistas para visualizar todos los
 para mostrar la información del usuario anteriormente seleccionado con sus transacciones.
 
 Dejos la ruta para el consumos de las apis de tipo get
+
+
 http://localhost:8000/api/usuarios
 
     En esta ruta visualizamos a todos los usuarios pero en este caso por orden de fecha creación decendente.
